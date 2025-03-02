@@ -1,0 +1,26 @@
+%placeholder{
+    width: 30%;
+    padding: 10px 20px;
+    margin: 10px 20px;
+    font-size: 20px;
+    border-radius: 20px;
+    text-transform: uppercase;
+}
+
+.first{
+    @extend %placeholder;
+    background-color: crimson;
+    color: aliceblue;
+}
+
+.second{
+    @extend %placeholder;
+    background-color: blue;
+    color: aliceblue;
+}
+
+.third{
+    @extend %placeholder;
+    background-color: brown;
+    color: aliceblue;
+}

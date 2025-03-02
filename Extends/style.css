@@ -1,0 +1,23 @@
+.third, .second, .first {
+  width: 30%;
+  padding: 10px 20px;
+  margin: 10px 20px;
+  font-size: 20px;
+  border-radius: 20px;
+  text-transform: uppercase;
+}
+
+.first {
+  background-color: crimson;
+  color: aliceblue;
+}
+
+.second {
+  background-color: blue;
+  color: aliceblue;
+}
+
+.third {
+  background-color: brown;
+  color: aliceblue;
+}/*# sourceMappingURL=style.css.map */
